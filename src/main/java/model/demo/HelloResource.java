@@ -9,7 +9,7 @@ public class HelloResource {
     @GET
     @Produces("text/plain")
     public String hello() {
-        System.out.println("test")
+        System.out.println("test");
         return "Hello, World!";
     }
 }
