@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="12afbb25-1697-49a8-8304-63ac42c0bc20" name="Changes" comment="fsdffs">
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/vendors/bootstrap.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/vendors/bootstrap.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/vendors/material-icon-round.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/vendors/normalize.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/vendors/normalize.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/vendors/perfect-scrollbar.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/css/vendors/select2.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-Outlined.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-Outlined.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-Outlined.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-Round.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-Round.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-Round.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-Sharp.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-Sharp.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-Sharp.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-TwoTone.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-TwoTone.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons-TwoTone.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons.ttf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons.woff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/fonts/material-icon/MaterialIcons.woff2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand-9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/brand.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/brands/vendor-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/card-brands/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/card-brands/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/card-brands/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/card-brands/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/icons/stars-active.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/icons/starts-disable.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/12-1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/12-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/items/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/misc/map.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/people/avatar-1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/people/avatar-2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/people/avatar-3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/people/avatar-4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/people/avatar1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/people/avatar2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/people/avatar3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/people/avatar4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/theme/404.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/theme/flag-cn.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/theme/flag-fr.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/imgs/theme/flag-fr.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/theme/flag-jp.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/theme/flag-us.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/imgs/theme/upload.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/custom-chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendors/bootstrap.bundle.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendors/bootstrap.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendors/chart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendors/jquery-3.6.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendors/jquery.fullscreen.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendors/perfect-scrollbar.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/js/vendors/select2.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/abstracts/_import-vendors.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/abstracts/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/abstracts/_mixins.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/abstracts/_variables.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/abstracts/_variables.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_helpers.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/base/_typography.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/base/_typography.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_buttons.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/components/_buttons.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_elements.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_forms.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_items.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_lists.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/components/_navigation.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_layout-dark.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_layout.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_responsive.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_responsive.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/layout/_spacing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/layout/_spacing.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/sass/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/sass/main.scss" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <excluded-from-favorite>
+      <branch-storage>
+        <map>
+          <entry type="LOCAL">
+            <value>
+              <list>
+                <branch-info repo="$PROJECT_DIR$/demo-1" source="master" />
+              </list>
+            </value>
+          </entry>
+        </map>
+      </branch-storage>
+    </excluded-from-favorite>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/demo-1" value="master" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2ldhWZHzwFYHLsYT1zTwcl9ixh4" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "JUnit.All in demo.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "G:/Project/IdeaProjects/demo",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="All in demo" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="demo" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.All in demo" />
+        <item itemvalue="JUnit.All in demo" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="12afbb25-1697-49a8-8304-63ac42c0bc20" name="Changes" comment="" />
+      <created>1725515894332</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1725515894332</updated>
+      <workItem from="1725515895108" duration="71000" />
+      <workItem from="1725516214367" duration="20000" />
+      <workItem from="1725580254832" duration="438000" />
+      <workItem from="1725580757367" duration="423000" />
+      <workItem from="1725674693031" duration="41000" />
+      <workItem from="1725847636630" duration="1272000" />
+      <workItem from="1726205379300" duration="201000" />
+      <workItem from="1726206131156" duration="99000" />
+      <workItem from="1726278320118" duration="335000" />
+    </task>
+    <task id="LOCAL-00001" summary="fsdffs">
+      <option name="closed" value="true" />
+      <created>1725848656557</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1725848656557</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fsdffs">
+      <option name="closed" value="true" />
+      <created>1725848747780</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1725848747780</updated>
+    </task>
+    <task id="LOCAL-00003" summary="fsdffs">
+      <option name="closed" value="true" />
+      <created>1726205389555</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1726205389555</updated>
+    </task>
+    <task id="LOCAL-00004" summary="fsdffs">
+      <option name="closed" value="true" />
+      <created>1726205442745</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1726205442745</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="fsdffs" />
+    <option name="LAST_COMMIT_MESSAGE" value="fsdffs" />
+  </component>
+</project>

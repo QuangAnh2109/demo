@@ -1,30 +1,76 @@
-/* ========================
-INCLUDE STYLES AND COMPONENTS
-===================== */
+/***
+ Theme Name: Nest
+ Description: Grocery, Super Market, eCommerce HTML Template
+ Version: 1.0
+ License: GNU General Public License v2 or later
+ License URI: http://www.gnu.org/licenses/gpl-2.0.html
+==============================
+TABLE CONTENT
+ Import Google Fonts
+ Include Third Party CSS Library
+ GENERAL
+ HEADER
+ Offcanvas Sidebar
+ Search form
+ Main header
+ Mega menu
+ Header layouts
+ Page layouts
+ Pagination
+ Breadcrumb
+ CATEGORY PAGES
+ SINGLE POST
+ Author box
+ comment
+ Post share social
+ WP STYPE
+ Custom amine
+***/
 
-// 1. Abstracts
+// 1. Configuration and helpers
 @import
-  'abstracts/import-vendors',
-  'abstracts/mixins',
-  'abstracts/variables';  
+  'abstracts/variables',
+  'abstracts/functions',
+  'abstracts/mixins';
 
-// 2. Base stuff
+// 2. Vendors
 @import
-  'base/helpers',
+  'vendors/vendors-import';
+
+// 3. Base stuff
+@import
+  'base/common',
+  'base/animation',
   'base/typography';
 
-// 3. Components
+// 4. Components
 @import
-  'components/navigation',
   'components/buttons',
-  'components/forms',
-  'components/elements',
-  'components/items',
-  'components/lists';
+  'components/form',
+  'components/slider',
+  'components/card',
+  'components/tabs',
+  'components/misc',
+  'components/banners';
 
-// 4. Layout
+// 5. Page-specific styles
 @import
+  'pages/page',
+  'pages/shop',
+  'pages/blog',
+  'pages/print',
+  'pages/invoice',
+  'pages/vendors';
+
+// 6. Themes
+@import
+  'themes/default';
+
+// 7. Layout-related sections
+@import
+'layout/header',
+'layout/navigation',
+'layout/sidebar',
+'layout/footer',
 'layout/spacing',
-'layout/layout',
-'layout/layout-dark',
 'layout/responsive';
